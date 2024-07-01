@@ -1,4 +1,4 @@
-#Chapter 7: Access to Banking Spatial Indicators based on Floating Catchment Area approach
+# Chapter 7: Access to Banking Spatial Indicators based on Floating Catchment Area approach
 
 Earlier versions of this chapter have been included in the following presentations: 
 - ``Dynamic mapping of access to banking in Wales. A path to closing the banking deserts." Symposium on Spatiotemporal Data Science 2023, Center for Geographic Analysis, Harvard Universit"y;
