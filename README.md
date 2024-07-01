@@ -1,5 +1,5 @@
-# Everyday Banking, a Critical National Infrastructure in Transition: \
-# The Case of Access to Banking in the UK. \
+# Everyday Banking, a Critical National Infrastructure in Transition: 
+# The Case of Access to Banking in the UK. 
 
 PhD Thesis Submitted to the University of Warwick in partial fulfilment of the requirements for admission to the degree of Doctor in Philosophy
 
